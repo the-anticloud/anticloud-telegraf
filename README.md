@@ -2,9 +2,9 @@
 
 ![licence](https://img.shields.io/badge/licence-MIT-blue) ![offline-first](https://img.shields.io/badge/offline--first-air--gap-green) ![audit](https://img.shields.io/badge/audit-SHA3--256-orange) ![checks](https://img.shields.io/badge/checks-16_PASS-brightgreen)
 
-> Governed Anticloud packaging of the upstream project `TELEGRAF` in category **FACTORY_MANUFACTURING**. 16/16 checks PASS (measured). Every number below traces to a named file + run stamp; nothing is borrowed from other projects.
+> Governed Anticloud packaging of the upstream project `TELEGRAF` in category **ELECTRICITY_MANAGEMENT**. 16/16 checks PASS (measured). Every number below traces to a named file + run stamp; nothing is borrowed from other projects.
 
-**Upstream:** https://github.com/influxdata/telegraf · **Upstream pin:** `f361ad4aa98d63deb0baffcb16fbaf058189da48` · **Category:** FACTORY_MANUFACTURING · **Vendor:** Anticloud FZ LLE · **Licence:** MIT
+**Upstream:** TELEGRAF · **Upstream pin:** `4617e281b0458df847ef5ab57dedf682df843a68` · **Category:** ELECTRICITY_MANAGEMENT · **Vendor:** Anticloud FZ LLE · **Licence:** MIT
 
 ---
 
@@ -332,8 +332,8 @@ Upstream © its respective contributors under MIT (harvested MIT/Apache-2.0/BSD 
 
 ## Upstream
 
-- **project:** https://github.com/influxdata/telegraf
-- **Pinned SHA:** `f361ad4aa98d63deb0baffcb16fbaf058189da48`
+- **project:** TELEGRAF
+- **Pinned SHA:** `4617e281b0458df847ef5ab57dedf682df843a68`
 - **source:** `UPSTREAM_CLONE/` (pinned at the SHA above)
 - **Upstream README source:** `UPSTREAM_CLONE/README.md`
 
@@ -389,3 +389,5 @@ The PAX benchmark release was distributed by Newsfile wire to 336 outlets
 Wire distribution makes the announcement dated, public, and indexed, which
 makes the claim checkable.
 
+
+> Note: a same-named project in another category is the canonical published copy; this directory is retained as a local reference and is not published separately.
